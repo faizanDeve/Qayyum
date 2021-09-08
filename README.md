@@ -1,4 +1,4 @@
-<!--DOCTYPE html-->
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
    <head>
     <meta charset="utf-8">
@@ -6,14 +6,14 @@
     <meta name="author" content="abdul qayyum">
     <meta name="keywords" content="abdul,qayyum,official brothers">
     <meta name="description" content="This is my personal cv site , In this site you will Know about me">
-    <link rel="icon" href="https://github.com/faizanDeve/Qayyum/blob/main/Abdul%20Qayyum%20official.jpg?raw=true">
+    <link rel="icon" href="C:\Users\Muhammad Faizan\Desktop\My site\Abdul Qayyum official.jpg">
     </head>
     <body bgcolor="beige" style="color:#383838">
     <br>
     <!--1st table-->
     <table cellspacing="15">
       <tr>
-      <td> <img src="https://github.com/faizanDeve/Qayyum/blob/main/Abdul%20Qayyum%20official.jpg?raw=true" alt="Abdul Qayyum,Qayyum official,Qayyum brothers,Qayyum developer" title="Abdul Qayyum" height="180" width="200" align="left"></td>
+      <td> <img src="C:\Users\Muhammad Faizan\Desktop\My site\Abdul Qayyum official.jpg" alt="Abdul Qayyum,Qayyum official,Qayyum brothers,Qayyum developer" title="Abdul Qayyum" height="180" width="200" align="left"></td>
       <td><h1 style="color:#004d80">Abdul Qayyum<h3>(Web developer)</h3></h1> <br> 🏠 Karachi,Pakistan <br>📧 abulqayyum7921@gmail.com <br>🕿 +923180015751 </td>
 
     </table>
