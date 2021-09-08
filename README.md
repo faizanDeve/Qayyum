@@ -14,9 +14,9 @@
     <table cellspacing="15">
       <tr>
       <td> <img src="C:\Users\Muhammad Faizan\Desktop\My site\Abdul Qayyum official.jpg" alt="Abdul Qayyum,Qayyum official,Qayyum brothers,Qayyum developer" title="Abdul Qayyum" height="180" width="200" align="left"></td>
-      <td><h1 style="color:#004d80">Abdul Qayyum<h3>(Web developer)</h3></h1> <br> 🏠 Karachi,Pakistan <br>📧 abulqayyum7921@gmail.com <br>🕿 +923180015751 </td>
+      <td><h1 style="color:#004d80">Abdul Qayyum<h3>(Web developer)</h3></h1> <br> 🏠 Karachi,Pakistan <br>📧 abulqayyum7921@gmail.com <br>🕿 +923180015751 
 
-    </table>
+    
   
 
     <!--2nd Table-->
@@ -68,7 +68,7 @@
 
           <tr>
             <td></td>
-            <td><li>MIcrosoft office</li></td>
+            <td><li>Microsoft office</li></td>
           </tr>
 
          </ul>
